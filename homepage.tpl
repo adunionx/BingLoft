@@ -97,7 +97,7 @@
                   <h3>Our Relible Web Hosting Will Keep Your Site Up And Running!/h3>
                   <div class="row">
                     <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6">
-                      <h4><i class="fa fa-check-square-o"></i>Fixed Monthly Free</h4>
+                      <h4><i class="fa fa-check-square-o"></i>Fixed Monthly Fee</h4>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6">
                       <h4><i class="fa fa-check-square-o"></i>Unlimited Bandwith</h4>
@@ -189,14 +189,14 @@
       <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
         <div class="thumbnail wow fadeInLeft">
           <div class="caption"> <img src="{$WEB_ROOT}/templates/{$template}/html/img/server-icon-1.png" class="img-responsive" alt="...">
-            <h2>GIGA-016</h2>
-            <h3><span>Beginner</span></h3>
-            <h1><sup>$</sup>29<small>.99</small></h1>
+            <h2>Silver</h2>
+            <h3><span>Hosting</span></h3>
+            <h1><sup>Rs.</sup>79<small>.00</small></h1>
             <p class="specs">Monthly</p>
-            <p class="check">1 GB Storage</p>
-            <p class="check">10 GB Bandwidth</p>
-            <p class="check">Free Domain Name</p>
-            <p class="order"><a href="cart.php" class="btn btn-blue btn-lg" role="button"><i class="fa fa-cart-plus"></i>Order Today</a></p>
+            <p class="check">50 GB Storage</p>
+            <p class="check">Unlimited Bandwidth</p>
+            <p class="check">99.99% Uptime Guaranteed</p>
+            <p class="order"><a href="/cart.php?a=add&pid=10" class="btn btn-blue btn-lg" role="button"><i class="fa fa-cart-plus"></i>Order Today</a></p>
           </div>
         </div>
       </div>
@@ -205,14 +205,14 @@
       <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
         <div class="thumbnail wow fadeInUp">
           <div class="caption"> <img src="{$WEB_ROOT}/templates/{$template}/html/img/server-icon-2.png" class="img-responsive" alt="...">
-            <h2>GIGA-032</h2>
-            <h3><span>Intermediate</span></h3>
-            <h1><sup>$</sup>79<small>.99</small></h1>
+            <h2>Gold</h2>
+            <h3><span>Hosting</span></h3>
+            <h1><sup>Rs.</sup>149<small>.00</small></h1>
             <p class="specs">Monthly</p>
-            <p class="check">10 GB Storage</p>
-            <p class="check">100 GB Bandwidth</p>
-            <p class="check">Free Domain Name</p>
-            <p class="order"><a href="cart.php" class="btn btn-blue btn-lg" role="button"><i class="fa fa-cart-plus"></i>Order Today</a></p>
+            <p class="check">200 GB Storage</p>
+            <p class="check">Unlimited Bandwidth</p>
+            <p class="check">99.99% Uptime Guaranteed</p>
+            <p class="order"><a href="/cart.php?a=add&pid=11" class="btn btn-blue btn-lg" role="button"><i class="fa fa-cart-plus"></i>Order Today</a></p>
           </div>
         </div>
       </div>
@@ -221,14 +221,14 @@
       <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
         <div class="thumbnail wow fadeInRight">
           <div class="caption"> <img src="{$WEB_ROOT}/templates/{$template}/html/img/server-icon-3.png" class="img-responsive" alt="...">
-            <h2>GIGA-064</h2>
-            <h3><span>Advanced</span></h3>
-            <h1><sup>$</sup>149<small>.99</small></h1>
+            <h2>Platinum</h2>
+            <h3><span>Hosting</span></h3>
+            <h1><sup>Rs.</sup>175<small>.00</small></h1>
             <p class="specs">Monthly</p>
-            <p class="check">100 GB Storage</p>
-            <p class="check">500 GB Bandwidth</p>
-            <p class="check">Free Domain Name</p>
-            <p class="order"><a href="cart.php" class="btn btn-blue btn-lg" role="button"><i class="fa fa-cart-plus"></i>Order Today</a></p>
+            <p class="check">500 GB Storage</p>
+            <p class="check">Unlimited Bandwidth</p>
+            <p class="check">99.99% Uptime Guaranteed</p>
+            <p class="order"><a href="/cart.php?a=add&pid=11" class="btn btn-blue btn-lg" role="button"><i class="fa fa-cart-plus"></i>Order Today</a></p>
           </div>
         </div>
       </div>
