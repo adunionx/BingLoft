@@ -148,7 +148,7 @@
               <ul class="dropdown-menu normal" role="menu">
              
             
-                <li><a href="{$WEB_ROOT}/website-hosting.php"><i class="fa fa-users"></i>Reseller Hosting</a></li>
+                <li><a href="{$WEB_ROOT}/website-hosting.php"><i class="fa fa-users"></i>Shared Hosting</a></li>
                 <li><a href="{$WEB_ROOT}/reseller-hosting.php"><i class="fa fa-cloud-upload"></i>Reseller Hosting</a></li>
            
               </ul>
