@@ -63,11 +63,11 @@
       <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
         <h4>Hosting</h4>
         <ul class="nav">
-          <li><a href="{$WEB_ROOT}/voice-servers.php"><i class="fa fa-angle-double-right"></i>Voice Servers</a></li>
-          <li><a href="{$WEB_ROOT}/game-servers.php"><i class="fa fa-angle-double-right"></i>Game Servers</a></li>
+          <li><a href="{$WEB_ROOT}/website-hosting.php"><i class="fa fa-angle-double-right"></i>Shared Hosting</a></li>
+
           <li><a href="{$WEB_ROOT}/reseller-hosting.php"><i class="fa fa-angle-double-right"></i>Reseller Hosting</a></li>
-          <li><a href="{$WEB_ROOT}/website-hosting.php"><i class="fa fa-angle-double-right"></i>Website Hosting</a></li>
-          <li><a href="{$WEB_ROOT}/dedicated-servers.php"><i class="fa fa-angle-double-right"></i>Dedicated Servers</a></li>
+    
+      
         </ul>
       </div>
       <!--End Column--> 
@@ -77,7 +77,7 @@
         <ul class="nav">
           <li><a href="{$WEB_ROOT}/website-design.php"><i class="fa fa-angle-double-right"></i>Web Design</a></li>
           <li><a href="{$WEB_ROOT}/domain-names.php"><i class="fa fa-angle-double-right"></i>Domain Names</a></li>
-          <li><a href="{$WEB_ROOT}/ssl-certificates.php"><i class="fa fa-angle-double-right"></i>SSL Certificates</a></li>
+
           <li><a href="{$WEB_ROOT}/service-price-list.php"><i class="fa fa-angle-double-right"></i>Service Price List</a></li>
           <li><a href="{$WEB_ROOT}/contact.php"><i class="fa fa-angle-double-right"></i>Request Custom Quote</a></li>
         </ul>
@@ -117,8 +117,8 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-        <p class="slogan">Company #0123456789 &nbsp;&nbsp; | &nbsp;&nbsp; VAT #GB 0123456789</p>
-        <p>Copyright &copy; {$date_year} - <a href="http://www.whmcsthemes.com" target="_blank">WHMCSThemes.com</a> - All Rights Reserved.</p>
+
+        <p>Copyright &copy; {$date_year} - <a href="http://BingLoft.com" target="_blank">BingLoft.Com</a> - All Rights Reserved.</p>
       </div>
     </div>
   </div>
