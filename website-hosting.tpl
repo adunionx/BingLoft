@@ -18,10 +18,10 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-7 col-md-7 col-sm-7 col-xs-12">
-        <h2 class="intro wow fadeInLeft">Reliable Website Hosting</h2>
-        <p class="light wow fadeInLeft">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in lobortis nisl, vitae iaculis sapien. Phasellus ultrices gravida massa luctus ornare. Suspendisse blandit quam elit phasellus ultrices gravida massa luctus ornare. Suspendisse blandit quam elit.</p>
+        <h2 class="intro wow fadeInLeft">Reliable Shared Hosting</h2>
+        <p class="light wow fadeInLeft">We Provide Pure Solid State Drives (SSDs), a type of hard drive that uses no mechanical parts and provides substantial performance upgrades from traditional spinning drives. Solid State Drives give you faster read/write speeds, can handle more disk requests and can push through significantly more data than a standard Hard Disk Drive (HDD). </p>
         <br />
-        <p class="light wow fadeInLeft">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in lobortis nisl, vitae iaculis sapien. Phasellus ultrices gravida massa luctus ornare. Suspendisse blandit quam elit phasellus ultrices gravida massa luctus ornare.</p>
+        <p class="light wow fadeInLeft">Our web hosting plans now feature all new TURBO SSD disk systems, with 24+ CPU cores per server, and Gigabit network speeds - for blazing fast performance to host your web sites and applications such as Wordpress, Joomla, Drupal, and much more! </p>
         <br />
       </div>
       <div class="col-lg-4 col-lg-offset-1 col-md-4 col-md-offset-1 col-sm-5 col-xs-12">
