@@ -67,20 +67,20 @@
       <!--Begin Social Icons-->
       <div class="col-lg-6 col-md-5 col-sm-3 col-xs-12 text-right social" id="xshidden"> 
         <!--Begin Social Media Item--> 
-        <a href="http://www.facebook.com/whmcsthemes" target="_blank"><i class="fa fa-facebook-square"></i></a> 
+        <a href="http://www.facebook.com/emounliongroup" target="_blank"><i class="fa fa-facebook-square"></i></a> 
         <!--End Social Media Item--> 
         <!--Begin Social Media Item--> 
-        <a href="http://www.twitter.com/whmcsthemes" target="_blank"><i class="fa fa-twitter-square"></i></a> 
+        <a href="http://www.twitter.com/natanrayz" target="_blank"><i class="fa fa-twitter-square"></i></a> 
         <!--End Social Media Item--> 
+
+       
+
         <!--Begin Social Media Item--> 
-        <a href="http://www.youtube.com/whmcsthemes" target="_blank"><i class="fa fa-youtube-square"></i></a> 
+        <a href="https://plus.google.com/113683999235269088464" target="_blank"><i class="fa fa-google-plus-square"></i></a> 
         <!--End Social Media Item--> 
-        <!--Begin Social Media Item--> 
-        <a href="https://plus.google.com" target="_blank"><i class="fa fa-google-plus-square"></i></a> 
-        <!--End Social Media Item--> 
-        <!--Begin Social Media Item--> 
-        <a href="http://www.linkedin.com" target="_blank"><i class="fa fa-linkedin-square"></i></a> 
-        <!--End Social Media Item--> 
+     
+    
+        
       </div>
       <!--End Social Icons--> 
     </div>
@@ -97,7 +97,7 @@
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#mainmenu"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
           <a class="navbar-brand" href="{$WEB_ROOT}/index.php" id="mainlogo"></a>
           <div class="headerslogan">
-            <p id="xshidden">Hosting over 1,000,000 websites since 1999</p>
+            <p id="xshidden">Hosting over 1,000,000 websites since 2017</p>
           </div>
         </div>
         <div class="collapse navbar-collapse" id="mainmenu">
@@ -106,20 +106,20 @@
             <li class="dropdown{if $filename eq 'index'} active{/if}"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Home <i class="fa fa-caret-down"></i></a>
               <ul class="dropdown-menu normal" role="menu">
                 <li><a href="{$WEB_ROOT}/index.php">Home Page</a></li>
-                <li class="dropdown-submenu"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Hosting Pages</a>
+                <li class="dropdown-submenu"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Hosting</a>
                   <ul class="dropdown-menu">
-                    <li><a href="{$WEB_ROOT}/voice-servers.php"><i class="fa fa-headphones"></i>Voice Servers</a></li>
-                    <li><a href="{$WEB_ROOT}/game-servers.php"><i class="fa fa-gamepad"></i>Game Servers</a></li>
+                    <li><a href="{$WEB_ROOT}/website-hosting.php"><i class="fa fa-headphones"></i>Shared Hosting</a></li>
+            
                     <li><a href="{$WEB_ROOT}/reseller-hosting.php"><i class="fa fa-users"></i>Reseller Hosting</a></li>
-                    <li><a href="{$WEB_ROOT}/website-hosting.php"><i class="fa fa-cloud-upload"></i>Website Hosting</a></li>
-                    <li><a href="{$WEB_ROOT}/dedicated-servers.php"><i class="fa fa-server"></i>Dedicated Servers</a></li>
+                
+             
                   </ul>
                 </li>
-                <li class="dropdown-submenu"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Service Pages</a>
+                <li class="dropdown-submenu"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Services</a>
                   <ul class="dropdown-menu">
                     <li><a href="{$WEB_ROOT}/website-design.php"><i class="fa fa-desktop"></i>Web Design</a></li>
-                    <li><a href="{$WEB_ROOT}/domain-names.php"><i class="fa fa-globe"></i>Domain Names</a></li>
-                    <li><a href="{$WEB_ROOT}/ssl-certificates.php"><i class="fa fa-lock"></i>SSL Certificates</a></li>
+                
+               
                     <li><a href="{$WEB_ROOT}/service-price-list.php"><i class="fa fa-cogs"></i>Service Price List</a></li>
                   </ul>
                 </li>
@@ -146,11 +146,11 @@
             <!--Begin Menu Item-->
             <li class="dropdown{if $category eq 'hosting'} active{/if}"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Hosting Solutions <i class="fa fa-caret-down"></i></a>
               <ul class="dropdown-menu normal" role="menu">
-                <li><a href="{$WEB_ROOT}/voice-servers.php"><i class="fa fa-headphones"></i>Voice Servers</a></li>
-                <li><a href="{$WEB_ROOT}/game-servers.php"><i class="fa fa-gamepad"></i>Game Servers</a></li>
-                <li><a href="{$WEB_ROOT}/reseller-hosting.php"><i class="fa fa-users"></i>Reseller Hosting</a></li>
-                <li><a href="{$WEB_ROOT}/website-hosting.php"><i class="fa fa-cloud-upload"></i>Website Hosting</a></li>
-                <li><a href="{$WEB_ROOT}/dedicated-servers.php"><i class="fa fa-server"></i>Dedicated Servers</a></li>
+             
+            
+                <li><a href="{$WEB_ROOT}/website-hosting.php"><i class="fa fa-users"></i>Reseller Hosting</a></li>
+                <li><a href="{$WEB_ROOT}/reseller-hosting.php"><i class="fa fa-cloud-upload"></i>Reseller Hosting</a></li>
+           
               </ul>
             </li>
             <!--End Menu Item--> 
@@ -158,8 +158,8 @@
             <li class="dropdown{if $category eq 'services'} active{/if}"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Services <i class="fa fa-caret-down"></i></a>
               <ul class="dropdown-menu normal" role="menu">
                 <li><a href="{$WEB_ROOT}/website-design.php"><i class="fa fa-desktop"></i>Web Design</a></li>
-                <li><a href="{$WEB_ROOT}/domain-names.php"><i class="fa fa-globe"></i>Domain Names</a></li>
-                <li><a href="{$WEB_ROOT}/ssl-certificates.php"><i class="fa fa-lock"></i>SSL Certificates</a></li>
+              
+               
                 <li><a href="{$WEB_ROOT}/service-price-list.php"><i class="fa fa-cogs"></i>Service Price List</a></li>
               </ul>
             </li>
