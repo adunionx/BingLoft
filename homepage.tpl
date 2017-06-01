@@ -94,7 +94,7 @@
               <div class="row" id="rowmargin">
                 <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
                   <h1>Shared Web Hosting</h1>
-                  <h3>Our Relible Web Hosting Will Keep Your Site Up And Running!/h3>
+                  <h3>Our Relible Web Hosting Will Keep Your Site Up And Running!</h3>
                   <div class="row">
                     <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6">
                       <h4><i class="fa fa-check-square-o"></i>Fixed Monthly Fee</h4>
@@ -228,7 +228,7 @@
             <p class="check">500 GB Storage</p>
             <p class="check">Unlimited Bandwidth</p>
             <p class="check">99.99% Uptime Guaranteed</p>
-            <p class="order"><a href="cart.php?a=add&pid=11" class="btn btn-blue btn-lg" role="button"><i class="fa fa-cart-plus"></i>Order Today</a></p>
+            <p class="order"><a href="cart.php?a=add&pid=12" class="btn btn-blue btn-lg" role="button"><i class="fa fa-cart-plus"></i>Order Today</a></p>
           </div>
         </div>
       </div>
