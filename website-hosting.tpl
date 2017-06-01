@@ -130,14 +130,14 @@
 <section id="hostingfeatures">
   <div class="container">
     <h3 class="intro wow fadeInLeft">Great features included with all plans</h3>
-    <p class="light wow fadeInLeft">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+    <p class="light wow fadeInLeft">BingLoft Provide Reliable SSD Web Hosting With Industry Leading Hardware. All Of Our Hosting Plan Comes with Latest Cpanel That Helps you to easily manage your website.</p>
     <div class="row"> 
       <!--Begin Feature-->
       <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 feature wow zoomInDown" data-wow-delay="0.1s">
         <center>
           <img src="{$WEB_ROOT}/templates/{$template}/html/img/hostingplans/features/instantsetup.png" class="img-responsive">
           <h4>Instant Setup</h4>
-          <p class="light">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+          <p class="light">You don't have to wait longer for your order activation, just Pay your invoice and your order will setup within one minute. </p>
         </center>
       </div>
       <!--End Feature--> 
@@ -146,7 +146,7 @@
         <center>
           <img src="{$WEB_ROOT}/templates/{$template}/html/img/hostingplans/features/uptime.png" class="img-responsive">
           <h4>99.99% Uptime Guarantee</h4>
-          <p class="light">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+          <p class="light">You will get 99.9% uptime for sure, if not, we will credit back your account even up to 100%. We just don't say it, we proved it that we are the best always. </p>
         </center>
       </div>
       <!--End Feature--> 
@@ -155,7 +155,7 @@
         <center>
           <img src="{$WEB_ROOT}/templates/{$template}/html/img/hostingplans/features/support.png" class="img-responsive">
           <h4>Full User Support</h4>
-          <p class="light">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+          <p class="light">We are available 365 days 24/7 via Live chat, Calling, Ticket, Social Media just for you, ask anything any time. We are happy to help you. </p>
         </center>
       </div>
       <!--End Feature--> 
@@ -164,7 +164,7 @@
         <center>
           <img src="{$WEB_ROOT}/templates/{$template}/html/img/hostingplans/features/websitebuilders.png" class="img-responsive">
           <h4>Website Building Tools</h4>
-          <p class="light">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+          <p class="light">Your Hosting account comes with pre-installed Website Builder, that can help you create an awesome website within 5 minutes. </p>
         </center>
       </div>
       <!--End Feature--> 
@@ -173,7 +173,7 @@
         <center>
           <img src="{$WEB_ROOT}/templates/{$template}/html/img/hostingplans/features/domaintransfer.png" class="img-responsive">
           <h4>Free Domain Transfers</h4>
-          <p class="light">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+          <p class="light">We can take care all your site's data transfer to BingLoft. We will do that for you completely FREE of cost.</p>
         </center>
       </div>
       <!--End Feature--> 
@@ -182,7 +182,7 @@
         <center>
           <img src="{$WEB_ROOT}/templates/{$template}/html/img/hostingplans/features/managed.png" class="img-responsive">
           <h4>Managed Server</h4>
-          <p class="light">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+          <p class="light">Our Servers are fully Managed, so you don't have to worry about management, we will monitor all server related issue.</p>
         </center>
       </div>
       <!--End Feature--> 
