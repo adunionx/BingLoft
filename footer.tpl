@@ -76,7 +76,7 @@
         <h4>Services</h4>
         <ul class="nav">
           <li><a href="{$WEB_ROOT}/website-design.php"><i class="fa fa-angle-double-right"></i>Web Design</a></li>
-          <li><a href="{$WEB_ROOT}/domain-names.php"><i class="fa fa-angle-double-right"></i>Domain Names</a></li>
+        
 
           <li><a href="{$WEB_ROOT}/service-price-list.php"><i class="fa fa-angle-double-right"></i>Service Price List</a></li>
           <li><a href="{$WEB_ROOT}/contact.php"><i class="fa fa-angle-double-right"></i>Request Custom Quote</a></li>
@@ -89,8 +89,8 @@
         <ul class="nav">
           <li><a href="{$WEB_ROOT}/faqs.php"><i class="fa fa-angle-double-right"></i>F.A.Q's</a></li>
           <li><a href="{$WEB_ROOT}/about-us.php"><i class="fa fa-angle-double-right"></i>About Us</a></li>
-          <li><a href="{$WEB_ROOT}/portfolio.php"><i class="fa fa-angle-double-right"></i>Portfolio</a></li>
-          <li><a href="{$WEB_ROOT}/promotions.php"><i class="fa fa-angle-double-right"></i>Promotions</a></li>
+          <li><a href="{$WEB_ROOT}/portfolio.php"><i class
+          
           <li><a href="{$WEB_ROOT}/opening-hours.php"><i class="fa fa-angle-double-right"></i>Opening Hours</a></li>
         </ul>
       </div>
@@ -103,7 +103,7 @@
           <li><a href="{$WEB_ROOT}/sla-agreement.php"><i class="fa fa-angle-double-right"></i>SLA Agreement</a></li>
           <li><a href="{$WEB_ROOT}/terms-of-service.php"><i class="fa fa-angle-double-right"></i>Terms of Service</a></li>
           <li><a href="{$WEB_ROOT}/contact.php"><i class="fa fa-angle-double-right"></i>Copyright Infringement</a></li>
-          <li><a href="{$WEB_ROOT}/contact.php"><i class="fa fa-angle-double-right"></i>Request D.M.C.A Takedown</a></li>
+          <li><a href="{$WEB_ROOT}/contact.php"><i class="fa fa-angle-double-right"></i>Contact Us</a> </li>
         </ul>
       </div>
       <!--End Column--> 
