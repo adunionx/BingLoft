@@ -284,7 +284,7 @@
         <div class="thumbnail wow zoomInDown">
           <div class="caption"> <img src="{$WEB_ROOT}/templates/{$template}/html/img/website-tools/wordpress.png" class="img-responsive" alt="...">
             <h3>Word Press</h3>
-            <h4><small>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</small></h4>
+            <h4><small>WordPress is the most powerful blogging and website content management system (CMS) in existence today. <small></h4>
             <p class="button"><a href="website-design.php" class="btn btn-gray btn-md" role="button"><i class="fa fa-question-circle"></i>Learn More</a></p>
           </div>
         </div>
@@ -295,7 +295,7 @@
         <div class="thumbnail wow zoomInDown" data-wow-delay="0.3s">
           <div class="caption"> <img src="{$WEB_ROOT}/templates/{$template}/html/img/website-tools/joomla.png" class="img-responsive" alt="...">
             <h3>Joomla</h3>
-            <h4><small>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</small></h4>
+            <h4><small>Joomla is a free and open-source content management system (CMS) for publishing web content.</small></h4>
             <p class="button"><a href="website-design.php" class="btn btn-gray btn-md" role="button"><i class="fa fa-question-circle"></i>Learn More</a></p>
           </div>
         </div>
@@ -306,7 +306,7 @@
         <div class="thumbnail wow zoomInDown" data-wow-delay="0.6s">
           <div class="caption"> <img src="{$WEB_ROOT}/templates/{$template}/html/img/website-tools/drupal.png" class="img-responsive" alt="...">
             <h3>Drupal</h3>
-            <h4><small>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</small></h4>
+            <h4><small>Drupal is free, open source software that can be used by individuals or groups of users To create Website.  </small></h4>
             <p class="button"><a href="website-design.php" class="btn btn-gray btn-md" role="button"><i class="fa fa-question-circle"></i>Learn More</a></p>
           </div>
         </div>
@@ -317,7 +317,7 @@
         <div class="thumbnail wow zoomInDown" data-wow-delay="0.9s">
           <div class="caption"> <img src="{$WEB_ROOT}/templates/{$template}/html/img/website-tools/softaculous.png" class="img-responsive" alt="...">
             <h3>Softaculous</h3>
-            <h4><small>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</small></h4>
+            <h4><small>Softaculous is the leading Auto Installer having 377 great scripts, 1115 PHP Classes and we are still adding more.  </small></h4>
             <p class="button"><a href="website-design.php" class="btn btn-gray btn-md" role="button"><i class="fa fa-question-circle"></i>Learn More</a></p>
           </div>
         </div>
