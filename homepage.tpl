@@ -9,31 +9,31 @@
             <div class="container">
               <div class="row" id="rowmargin">
                 <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
-                  <h1 class="wow slideInLeft">Technology Services</h1>
-                  <h3 class="wow slideInLeft" data-wow-delay="0.1s">We specialise is a wide range of technology services to help keep your business online and keep your customers happy</h3>
+                  <h1 class="wow slideInLeft">Special Offer</h1>
+                  <h3 class="wow slideInLeft" data-wow-delay="0.1s">Special Offer For New Users, Get 10% Off On Every Shared Hosting Plan</h3>
                   <div class="row">
                     <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6">
-                      <h4 class="wow zoomIn" data-wow-delay="0.2s"><i class="fa fa-check-square-o"></i>Web Hosting</h4>
+                      <h4 class="wow zoomIn" data-wow-delay="0.2s"><i class="fa fa-check-square-o"></i>Promotion Code: BING10</h4>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6">
-                      <h4 class="wow zoomIn" data-wow-delay="0.4s"><i class="fa fa-check-square-o"></i>Domain Names</h4>
+                      <h4 class="wow zoomIn" data-wow-delay="0.4s"><i class="fa fa-check-square-o"></i>Instant Activation</h4>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6">
-                      <h4 class="wow zoomIn" data-wow-delay="0.6s"><i class="fa fa-check-square-o"></i>SSL Certificates</h4>
+                      <h4 class="wow zoomIn" data-wow-delay="0.6s"><i class="fa fa-check-square-o"></i>Offer On Shared Hosting</h4>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6">
-                      <h4 class="wow zoomIn" data-wow-delay="0.5s"><i class="fa fa-check-square-o"></i>Firewall Protection</h4>
+                      <h4 class="wow zoomIn" data-wow-delay="0.5s"><i class="fa fa-check-square-o"></i>Once Per User</h4>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6">
-                      <h4 class="wow zoomIn" data-wow-delay="0.8s"><i class="fa fa-check-square-o"></i>Data Security</h4>
+                      <h4 class="wow zoomIn" data-wow-delay="0.8s"><i class="fa fa-check-square-o"></i>Only On New Registration</h4>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6">
-                      <h4 class="wow zoomIn" data-wow-delay="1.0s"><i class="fa fa-check-square-o"></i>Website Services</h4>
+                      <h4 class="wow zoomIn" data-wow-delay="1.0s"><i class="fa fa-check-square-o"></i>Tax Free</h4>
                     </div>
                   </div>
                   <div class="row">
                     <div class="col-lg-12">
-                      <p class="slidebutton"><a href="website-hosting.php" class="btn btn-main btn-md" role="button"><i class="fa fa-arrow-circle-right"></i>View Hosting Plans</a><a href="contact.php" class="btn btn-blue btn-md" role="button"><i class="fa fa-question-circle"></i>Contact our team for advice</a></p>
+                      <p class="slidebutton"><a href="website-hosting.php" class="btn btn-main btn-md" role="button"><i class="fa fa-arrow-circle-right"></i>Shared Hosting Plans</a><a href="contact.php" class="btn btn-blue btn-md" role="button"><i class="fa fa-question-circle"></i>Contact our team for advice</a></p>
                     </div>
                   </div>
                 </div>
@@ -93,26 +93,26 @@
             <div class="container">
               <div class="row" id="rowmargin">
                 <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
-                  <h1>Dedicated Solutions</h1>
-                  <h3>We have top-end dedicated servers available, ideal for growing websites that need additional resources</h3>
+                  <h1>Shared Web Hosting</h1>
+                  <h3>Our Relible Web Hosting Will Keep Your Site Up And Running!/h3>
                   <div class="row">
                     <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6">
-                      <h4><i class="fa fa-check-square-o"></i>Dedicated Resources</h4>
+                      <h4><i class="fa fa-check-square-o"></i>Fixed Monthly Free</h4>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6">
-                      <h4><i class="fa fa-check-square-o"></i>Fully Managed Server</h4>
+                      <h4><i class="fa fa-check-square-o"></i>Unlimited Bandwith</h4>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6">
-                      <h4><i class="fa fa-check-square-o"></i>Built in Firewall</h4>
+                      <h4><i class="fa fa-check-square-o"></i>Unlimited Databases</h4>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6">
-                      <h4><i class="fa fa-check-square-o"></i>Free Control Panel</h4>
+                      <h4><i class="fa fa-check-square-o"></i>Unlimited Emaiis</h4>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6">
-                      <h4><i class="fa fa-check-square-o"></i>24/7 Support Access</h4>
+                      <h4><i class="fa fa-check-square-o"></i>CloudFlare Optimization</h4>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6">
-                      <h4><i class="fa fa-check-square-o"></i>Free Setup / Migration</h4>
+                      <h4><i class="fa fa-check-square-o"></i>No Hidden Fee</h4>
                     </div>
                   </div>
                   <div class="row">
