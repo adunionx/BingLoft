@@ -46,7 +46,7 @@
             <p class="check">50 GB Storage</p>
             <p class="check">Unlimited Bandwidth</p>
             <p class="check">99% Uptime Guaranteed/p>
-            <p class="order"><a href="cart.php" class="btn btn-blue btn-lg" role="button"><i class="fa fa-cart-plus"></i>Order Today</a></p>
+            <p class="order"><a href="http://bingloft.com/cart.php?a=add&pid=10" class="btn btn-blue btn-lg" role="button"><i class="fa fa-cart-plus"></i>Order Today</a></p>
           </div>
         </div>
       </div>
@@ -55,14 +55,14 @@
       <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12 text-center">
         <div class="thumbnail wow fadeInUp">
           <div class="caption"> <img src="{$WEB_ROOT}/templates/{$template}/html/img/server-icon-2.png" class="img-responsive" alt="...">
-            <h2 class="plan">GIGA-064</h2>
-            <h3 class="plan"><span>Personal</span></h3>
-            <h1><sup>$</sup>7<small>.99</small></h1>
+            <h2 class="plan">Gold</h2>
+            <h3 class="plan"><span>Hosting</span></h3>
+            <h1><sup>Rs.</sup>149<small>.00</small></h1>
             <p class="specs">Monthly</p>
-            <p class="check">10 GB Storage</p>
-            <p class="check">100 GB Bandwidth</p>
-            <p class="check">Free Domain Name</p>
-            <p class="order"><a href="cart.php" class="btn btn-blue btn-lg" role="button"><i class="fa fa-cart-plus"></i>Order Today</a></p>
+            <p class="check">200 GB Storage</p>
+            <p class="check">Unlimited Bandwidth</p>
+            <p class="check">99% Uptime Guaranteed</p>
+            <p class="order"><a href="http://bingloft.com/cart.php?a=add&pid=11" class="btn btn-blue btn-lg" role="button"><i class="fa fa-cart-plus"></i>Order Today</a></p>
           </div>
         </div>
       </div>
@@ -71,14 +71,14 @@
       <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12 text-center">
         <div class="thumbnail wow fadeInUp">
           <div class="caption"> <img src="{$WEB_ROOT}/templates/{$template}/html/img/server-icon-3.png" class="img-responsive" alt="...">
-            <h2 class="plan">GIGA-128</h2>
-            <h3 class="plan"><span>Business</span></h3>
-            <h1><sup>$</sup>9<small>.99</small></h1>
+            <h2 class="plan">Platinum</h2>
+            <h3 class="plan"><span>Hosting</span></h3>
+            <h1><sup>Rs.</sup>175<small>.00</small></h1>
             <p class="specs">Monthly</p>
-            <p class="check">20 GB Storage</p>
-            <p class="check">200 GB Bandwidth</p>
-            <p class="check">Free Domain Name</p>
-            <p class="order"><a href="cart.php" class="btn btn-blue btn-lg" role="button"><i class="fa fa-cart-plus"></i>Order Today</a></p>
+            <p class="check">500 GB Storage</p>
+            <p class="check">Unlimited Bandwidth</p>
+            <p class="check">99% Uptime Guaranteed</p>
+            <p class="order"><a href="http://bingloft.com/cart.php?a=add&pid=12" class="btn btn-blue btn-lg" role="button"><i class="fa fa-cart-plus"></i>Order Today</a></p>
           </div>
         </div>
       </div>
@@ -87,14 +87,14 @@
       <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12 text-center">
         <div class="thumbnail wow fadeInRight">
           <div class="caption"> <img src="{$WEB_ROOT}/templates/{$template}/html/img/server-icon-4.png" class="img-responsive" alt="...">
-            <h2 class="plan">GIGA-256</h2>
+            <h2 class="plan">Ultimate</h2>
             <h3 class="plan"><span>Corporate</span></h3>
-            <h1><sup>$</sup>14<small>.99</small></h1>
+            <h1><sup>Rs.</sup>199<small>.00</small></h1>
             <p class="specs">Monthly</p>
-            <p class="check">100 GB Storage</p>
-            <p class="check">500 GB Bandwidth</p>
-            <p class="check">Free Domain Name</p>
-            <p class="order"><a href="cart.php" class="btn btn-blue btn-lg" role="button"><i class="fa fa-cart-plus"></i>Order Today</a></p>
+            <p class="check">Unlimited Storage</p>
+            <p class="check">Unlimited Bandwidth</p>
+            <p class="check">99% Uptime Guaranteed</p>
+            <p class="order"><a href="http://bingloft.com/cart.php?a=add&pid=13" class="btn btn-blue btn-lg" role="button"><i class="fa fa-cart-plus"></i>Order Today</a></p>
           </div>
         </div>
       </div>
