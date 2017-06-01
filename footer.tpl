@@ -83,18 +83,7 @@
         </ul>
       </div>
       <!--End Column--> 
-      <!--Begin Column-->
-      <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
-        <h4>Company</h4>
-        <ul class="nav">
-          <li><a href="{$WEB_ROOT}/faqs.php"><i class="fa fa-angle-double-right"></i>F.A.Q's</a></li>
-          <li><a href="{$WEB_ROOT}/about-us.php"><i class="fa fa-angle-double-right"></i>About Us</a></li>
-          <li><a href="{$WEB_ROOT}/portfolio.php"><i class
-          
-          <li><a href="{$WEB_ROOT}/opening-hours.php"><i class="fa fa-angle-double-right"></i>Opening Hours</a></li>
-        </ul>
-      </div>
-      <!--End Column--> 
+   
       <!--Begin Column-->
       <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
         <h4>Legal</h4>
@@ -103,7 +92,7 @@
           <li><a href="{$WEB_ROOT}/sla-agreement.php"><i class="fa fa-angle-double-right"></i>SLA Agreement</a></li>
           <li><a href="{$WEB_ROOT}/terms-of-service.php"><i class="fa fa-angle-double-right"></i>Terms of Service</a></li>
           <li><a href="{$WEB_ROOT}/contact.php"><i class="fa fa-angle-double-right"></i>Copyright Infringement</a></li>
-          <li><a href="{$WEB_ROOT}/contact.php"><i class="fa fa-angle-double-right"></i>Contact Us</a> </li>
+          <li><a href="{$WEB_ROOT}/contact.php"><i class="fa fa-angle-double-right"></i>Contact Us</a></li>
         </ul>
       </div>
       <!--End Column--> 
