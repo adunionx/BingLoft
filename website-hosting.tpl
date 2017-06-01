@@ -39,13 +39,13 @@
       <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12 text-center">
         <div class="thumbnail wow fadeInLeft">
           <div class="caption"> <img src="{$WEB_ROOT}/templates/{$template}/html/img/server-icon-1.png" class="img-responsive" alt="...">
-            <h2 class="plan">GIGA-032</h2>
-            <h3 class="plan"><span>Starter</span></h3>
-            <h1><sup>$</sup>2<small>.99</small></h1>
+            <h2 class="plan">Silver</h2>
+            <h3 class="plan"><span>Hosting</span></h3>
+            <h1><sup>Rs.</sup>79<small>.00</small></h1>
             <p class="specs">Monthly</p>
-            <p class="check">1 GB Storage</p>
-            <p class="check">10 GB Bandwidth</p>
-            <p class="check">Free Domain Name</p>
+            <p class="check">50 GB Storage</p>
+            <p class="check">Unlimited Bandwidth</p>
+            <p class="check">99% Uptime Guaranteed/p>
             <p class="order"><a href="cart.php" class="btn btn-blue btn-lg" role="button"><i class="fa fa-cart-plus"></i>Order Today</a></p>
           </div>
         </div>
