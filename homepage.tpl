@@ -13,7 +13,7 @@
                   <h3 class="wow slideInLeft" data-wow-delay="0.1s">Special Offer For New Users, Get 10% Off On Every Shared Hosting Plan</h3>
                   <div class="row">
                     <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6">
-                      <h4 class="wow zoomIn" data-wow-delay="0.2s"><i class="fa fa-check-square-o"></i>Promotion Code: BING10</h4>
+                      <h4 class="wow zoomIn" data-wow-delay="0.2s"><i class="fa fa-check-square-o"></i>Promotion Code: BINGLOFT10</h4>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6">
                       <h4 class="wow zoomIn" data-wow-delay="0.4s"><i class="fa fa-check-square-o"></i>Instant Activation</h4>
@@ -117,7 +117,7 @@
                   </div>
                   <div class="row">
                     <div class="col-lg-12">
-                      <p class="slidebutton"><a href="website-hosting.php" class="btn btn-main btn-md" role="button"><i class="fa fa-arrow-circle-right"></i>Order Now</a><a href="dedicated-servers.php" class="btn btn-blue btn-md" role="button"><i class="fa fa-question-circle"></i>What is dedicated hosting?</a></p>
+                      <p class="slidebutton"><a href="website-hosting.php" class="btn btn-main btn-md" role="button"><i class="fa fa-arrow-circle-right"></i>Order Now</a><a href="website-hosting.php" class="btn btn-blue btn-md" role="button"><i class="fa fa-question-circle"></i>What is Shared Hosting?</a></p>
                     </div>
                   </div>
                 </div>
