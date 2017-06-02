@@ -46,7 +46,7 @@
             <p class="check">50 GB Storage</p>
             <p class="check">Unlimited Bandwidth</p>
             <p class="check">99% Uptime Guaranteed/p>
-            <p class="order"><a href="http://bingloft.com/cart.php?a=add&pid=10" class="btn btn-blue btn-lg" role="button"><i class="fa fa-cart-plus"></i>Order Today</a></p>
+            <p class="order"><a href="http://bingloft.com/cart.php?a=add&pid=1" class="btn btn-blue btn-lg" role="button"><i class="fa fa-cart-plus"></i>Order Today</a></p>
           </div>
         </div>
       </div>
@@ -62,7 +62,7 @@
             <p class="check">200 GB Storage</p>
             <p class="check">Unlimited Bandwidth</p>
             <p class="check">99% Uptime Guaranteed</p>
-            <p class="order"><a href="http://bingloft.com/cart.php?a=add&pid=11" class="btn btn-blue btn-lg" role="button"><i class="fa fa-cart-plus"></i>Order Today</a></p>
+            <p class="order"><a href="http://bingloft.com/cart.php?a=add&pid=2" class="btn btn-blue btn-lg" role="button"><i class="fa fa-cart-plus"></i>Order Today</a></p>
           </div>
         </div>
       </div>
@@ -78,7 +78,7 @@
             <p class="check">500 GB Storage</p>
             <p class="check">Unlimited Bandwidth</p>
             <p class="check">99% Uptime Guaranteed</p>
-            <p class="order"><a href="http://bingloft.com/cart.php?a=add&pid=12" class="btn btn-blue btn-lg" role="button"><i class="fa fa-cart-plus"></i>Order Today</a></p>
+            <p class="order"><a href="http://bingloft.com/cart.php?a=add&pid=3" class="btn btn-blue btn-lg" role="button"><i class="fa fa-cart-plus"></i>Order Today</a></p>
           </div>
         </div>
       </div>
@@ -94,7 +94,7 @@
             <p class="check">Unlimited Storage</p>
             <p class="check">Unlimited Bandwidth</p>
             <p class="check">99% Uptime Guaranteed</p>
-            <p class="order"><a href="http://bingloft.com/cart.php?a=add&pid=13" class="btn btn-blue btn-lg" role="button"><i class="fa fa-cart-plus"></i>Order Today</a></p>
+            <p class="order"><a href="http://bingloft.com/cart.php?a=add&pid=4" class="btn btn-blue btn-lg" role="button"><i class="fa fa-cart-plus"></i>Order Today</a></p>
           </div>
         </div>
       </div>
