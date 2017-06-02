@@ -106,7 +106,7 @@
                       <h4><i class="fa fa-check-square-o"></i>Unlimited Databases</h4>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6">
-                      <h4><i class="fa fa-check-square-o"></i>Unlimited Emaiis</h4>
+                      <h4><i class="fa fa-check-square-o"></i>Unlimited Emails</h4>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6">
                       <h4><i class="fa fa-check-square-o"></i>CloudFlare Optimization</h4>
@@ -117,7 +117,7 @@
                   </div>
                   <div class="row">
                     <div class="col-lg-12">
-                      <p class="slidebutton"><a href="dedicated-servers.php" class="btn btn-main btn-md" role="button"><i class="fa fa-arrow-circle-right"></i>View Dedicated Plans</a><a href="dedicated-servers.php" class="btn btn-blue btn-md" role="button"><i class="fa fa-question-circle"></i>What is dedicated hosting?</a></p>
+                      <p class="slidebutton"><a href="website-hosting.php" class="btn btn-main btn-md" role="button"><i class="fa fa-arrow-circle-right"></i>Order Now</a><a href="dedicated-servers.php" class="btn btn-blue btn-md" role="button"><i class="fa fa-question-circle"></i>What is dedicated hosting?</a></p>
                     </div>
                   </div>
                 </div>
@@ -196,7 +196,7 @@
             <p class="check">50 GB Storage</p>
             <p class="check">Unlimited Bandwidth</p>
             <p class="check">99.99% Uptime Guaranteed</p>
-            <p class="order"><a href="cart.php?a=add&pid=10" class="btn btn-blue btn-lg" role="button"><i class="fa fa-cart-plus"></i>Order Today</a></p>
+            <p class="order"><a href="cart.php?a=add&pid=1" class="btn btn-blue btn-lg" role="button"><i class="fa fa-cart-plus"></i>Order Today</a></p>
           </div>
         </div>
       </div>
@@ -212,7 +212,7 @@
             <p class="check">200 GB Storage</p>
             <p class="check">Unlimited Bandwidth</p>
             <p class="check">99.99% Uptime Guaranteed</p>
-            <p class="order"><a href="cart.php?a=add&pid=11" class="btn btn-blue btn-lg" role="button"><i class="fa fa-cart-plus"></i>Order Today</a></p>
+            <p class="order"><a href="cart.php?a=add&pid=2" class="btn btn-blue btn-lg" role="button"><i class="fa fa-cart-plus"></i>Order Today</a></p>
           </div>
         </div>
       </div>
@@ -228,7 +228,7 @@
             <p class="check">500 GB Storage</p>
             <p class="check">Unlimited Bandwidth</p>
             <p class="check">99.99% Uptime Guaranteed</p>
-            <p class="order"><a href="cart.php?a=add&pid=12" class="btn btn-blue btn-lg" role="button"><i class="fa fa-cart-plus"></i>Order Today</a></p>
+            <p class="order"><a href="cart.php?a=add&pid=3" class="btn btn-blue btn-lg" role="button"><i class="fa fa-cart-plus"></i>Order Today</a></p>
           </div>
         </div>
       </div>
@@ -244,7 +244,7 @@
             <p class="check">Unlimited Storage</p>
             <p class="check">Unlimited Bandwidth</p>
             <p class="check">99.99% Uptime Guaranteed</p>
-            <p class="order"><a href="cart.php?a=add&pid=13" class="btn btn-blue btn-lg" role="button"><i class="fa fa-cart-plus"></i>Order Today</a></p>
+            <p class="order"><a href="cart.php?a=add&pid=4" class="btn btn-blue btn-lg" role="button"><i class="fa fa-cart-plus"></i>Order Today</a></p>
           </div>
         </div>
       </div>
