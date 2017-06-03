@@ -100,8 +100,8 @@
     <div class="row">
       <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
         <h2 class="intro wow fadeInLeft">Fully Responsive / Mobile Friendly</h2>
-        <p class="light wow fadeInLeft">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in lobortis nisl, vitae iaculis sapien. Phasellus ultrices gravida massa luctus ornare. Suspendisse blandit quam elit, eu imperdiet neque semper.</p>
-        <p class="light wow fadeInLeft">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in lobortis nisl, vitae iaculis sapien. Phasellus ultrices gravida massa luctus ornare. Suspendisse blandit quam elit, eu imperdiet neque semper.</p>
+        <p class="light wow fadeInLeft">If you designed your site more than 2 years ago, it’s likely that it wasn’t done with mobile friendliness in mind – the standards just weren’t there yet. </p>
+        <p class="light wow fadeInLeft">Techniques and standards are still being fleshed out — this is by far the biggest change to web design in years. </p>
       </div>
       <div class="col-lg-5 col-lg-offset-1 col-md-5 col-md-offset-1 col-sm-12 col-xs-12 wow bounceIn"> <img src="{$WEB_ROOT}/templates/{$template}/html/img/webdesign/responsive.png" class="img-responsive" /> </div>
     </div>
@@ -112,7 +112,7 @@
 <section id="webdesignfeatures">
   <div class="container">
     <h3 class="intro wow fadeInLeft">Included with all packages as standard:</h3>
-    <p class="light wow fadeInLeft">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in lobortis nisl, vitae iaculis sapien. Phasellus ultrices gravida massa luctus ornare. Suspendisse elit, eu imperdiet neque semper.</p>
+   
     <div class="row"> 
       <!--Begin Feature-->
       <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 wow fadeIn" data-wow-delay="0.2s">
@@ -121,8 +121,8 @@
             <div class="image"><i class="fa fa-chevron-circle-down"></i></div>
             <div class="info">
               <h3 class="title">HTML Coded Design</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in lobortis nisl, vitae iaculis sapien.</p>
-              <a href="#" class="btn btn-blue btn-sm" role="button"><i class="fa fa-caret-right"></i>Learn More</a> </div>
+              <p>No outdated software, only the best for the modern day browsers. Our design is compatible with all devices. </p>
+              <a href="contact.php" class="btn btn-blue btn-sm" role="button"><i class="fa fa-caret-right"></i>Learn More</a> </div>
           </div>
         </div>
       </div>
@@ -134,8 +134,8 @@
             <div class="image"><i class="fa fa-chevron-circle-down"></i></div>
             <div class="info">
               <h3 class="title">Fully Responsive</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in lobortis nisl, vitae iaculis sapien.</p>
-              <a href="#" class="btn btn-blue btn-sm" role="button"><i class="fa fa-caret-right"></i>Learn More</a> </div>
+              <p>Ultimate user experience whether viewed on a tablet, a desktop computer or a smartphone. </p>
+              <a href="contact.php" class="btn btn-blue btn-sm" role="button"><i class="fa fa-caret-right"></i>Learn More</a> </div>
           </div>
         </div>
       </div>
@@ -147,8 +147,8 @@
             <div class="image"><i class="fa fa-chevron-circle-down"></i></div>
             <div class="info">
               <h3 class="title">Design Sources</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in lobortis nisl, vitae iaculis sapien.</p>
-              <a href="#" class="btn btn-blue btn-sm" role="button"><i class="fa fa-caret-right"></i>Learn More</a> </div>
+              <p>You will be given all design sources upon completion and payment. That means all HTML and image files.</p>
+              <a href="contact.php" class="btn btn-blue btn-sm" role="button"><i class="fa fa-caret-right"></i>Learn More</a> </div>
           </div>
         </div>
       </div>
@@ -160,8 +160,8 @@
             <div class="image"><i class="fa fa-chevron-circle-down"></i></div>
             <div class="info">
               <h3 class="title">Ownership Rights</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in lobortis nisl, vitae iaculis sapien.</p>
-              <a href="#" class="btn btn-blue btn-sm" role="button"><i class="fa fa-caret-right"></i>Learn More</a> </div>
+              <p>You will have immediate access to all files and stored data upon work completion and payment. </p>
+              <a href="contact.php" class="btn btn-blue btn-sm" role="button"><i class="fa fa-caret-right"></i>Learn More</a> </div>
           </div>
         </div>
       </div>
