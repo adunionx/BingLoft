@@ -19,7 +19,9 @@
     <div class="row">
       <div class="col-lg-7 col-md-7 col-sm-7 col-xs-12">
         <h2 class="intro wow fadeInLeft">Professional Website Design Services</h2>
-        <p class="light wow fadeInLeft" data-wow-delay="0.1s">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in lobortis nisl, vitae iaculis sapien. Phasellus ultrices gravida massa luctus ornare. Suspendisse blandit quam elit, eu imperdiet neque semper.</p>
+        <p class="light wow fadeInLeft" data-wow-delay="0.1s">Your website is a lead generation and branding mechanism, creating new business opportunities for you. You can judge its value with the same metrics as your regular employees. If your site isn’t accomplishing your goals, it may be time for a change.
+
+ </p>
         <br />
         <p class="wow shake" data-wow-delay="0.2s"><a href="contact.php" class="btn btn-md btn-blue" role="button">Discuss your Project</a></p>
         <br />
@@ -45,45 +47,45 @@
       <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
         <div class="thumbnail wow fadeInLeft">
           <div class="caption"> <img src="{$WEB_ROOT}/templates/{$template}/html/img/webdesign/design-icon-1.png" class="img-responsive" alt="...">
-            <h2>KILO</h2>
-            <h3><span>Starter</span></h3>
-            <h1><sup>$</sup>499<small>.99</small></h1>
+            <h2>Basic</h2>
+            <h3><span>Design</span></h3>
+            <h1><sup>Rs.</sup>750<small>.00</small></h1>
             <p class="specs">One Time Payment</p>
-            <p class="check">Home Page Design</p>
-            <p class="check">2 Sub Pages</p>
-            <p class="check">Blank Page</p>
-            <p class="check">Image Slider</p>
-            <p class="order"><a href="cart.php" class="btn btn-main btn-lg" role="button">Order Today</a></p>
+            <p class="check">5 Pages</p>
+            <p class="check">1 Logo</p>
+            <p class="check">2 Email Accounts</p>
+            <p class="check">1 Year Maintenance</p>
+            <p class="order"><a href="contact.php" class="btn btn-main btn-lg" role="button">Order Today</a></p>
           </div>
         </div>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
         <div class="thumbnail wow fadeInUp">
           <div class="caption"> <img src="{$WEB_ROOT}/templates/{$template}/html/img/webdesign/design-icon-2.png" class="img-responsive" alt="...">
-            <h2>MEGA</h2>
-            <h3><span>Business</span></h3>
-            <h1><sup>$</sup>899<small>.99</small></h1>
+            <h2>Prime</h2>
+            <h3><span>Design</span></h3>
+            <h1><sup>Rs.</sup>950<small>.00</small></h1>
             <p class="specs">One Time Payment</p>
-            <p class="check">Home Page Design</p>
-            <p class="check">5 Sub Pages</p>
-            <p class="check">Blank Page</p>
-            <p class="check">Image Slider</p>
-            <p class="order"><a href="cart.php" class="btn btn-main btn-lg" role="button">Order Today</a></p>
+            <p class="check">10 Pages</p>
+            <p class="check">2 Logos</p>
+            <p class="check">5 Email Accounts</p>
+            <p class="check">1 Year Maintenance</p>
+            <p class="order"><a href="contact.php" class="btn btn-main btn-lg" role="button">Order Today</a></p>
           </div>
         </div>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
         <div class="thumbnail wow fadeInRight">
           <div class="caption"> <img src="{$WEB_ROOT}/templates/{$template}/html/img/webdesign/design-icon-3.png" class="img-responsive" alt="...">
-            <h2>GIGA</h2>
-            <h3><span>Corporate</span></h3>
-            <h1><sup>$</sup>999<small>.99</small></h1>
+            <h2>Premium</h2>
+            <h3><span>Design</span></h3>
+            <h1><sup>Rs.</sup>2450<small>.00</small></h1>
             <p class="specs">One Time Payment</p>
-            <p class="check">Home Page Design</p>
-            <p class="check">10 Sub Pages</p>
-            <p class="check">Blank Page</p>
-            <p class="check">Image Slider</p>
-            <p class="order"><a href="cart.php" class="btn btn-main btn-lg" role="button"><i class="fa fa-cart-plus"></i>Order Today</a></p>
+            <p class="check">Custom Pages</p>
+            <p class="check">Custom Logos</p>
+            <p class="check">Custom Email Accounts</p>
+            <p class="check">Lifetime Free Maintenance</p>
+            <p class="order"><a href="contact.php" class="btn btn-main btn-lg" role="button"><i class="fa fa-cart-plus"></i>Order Today</a></p>
           </div>
         </div>
       </div>
