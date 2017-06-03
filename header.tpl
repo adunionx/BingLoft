@@ -105,7 +105,7 @@
             <!--Begin Menu Item-->
             <li class="dropdown{if $filename eq 'index'} active{/if}"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Home <i class="fa fa-caret-down"></i></a>
               <ul class="dropdown-menu normal" role="menu">
-                <li><a href="{$WEB_ROOT}/index.php">Home Page</a></li>
+                <li><a href="{$WEB_ROOT}/index.php">Home</a></li>
                 <li class="dropdown-submenu"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Hosting</a>
                   <ul class="dropdown-menu">
                     <li><a href="{$WEB_ROOT}/website-hosting.php"><i class="fa fa-headphones"></i>Shared Hosting</a></li>
@@ -123,16 +123,7 @@
                     <li><a href="{$WEB_ROOT}/service-price-list.php"><i class="fa fa-cogs"></i>Service Price List</a></li>
                   </ul>
                 </li>
-                <li class="dropdown-submenu"> <a href="#">Company Pages</a>
-                  <ul class="dropdown-menu">
-                    <li><a href="{$WEB_ROOT}/faqs.php"><i class="fa fa-question-circle"></i>F.A.Q's</a></li>
-                    <li><a href="{$WEB_ROOT}/about-us.php"><i class="fa fa-home"></i>About Us</a></li>
-                    <li><a href="{$WEB_ROOT}/contact.php"><i class="fa fa-envelope"></i>Contact Us</a></li>
-                    <li><a href="{$WEB_ROOT}/portfolio.php"><i class="fa fa-picture-o"></i>Portfolio</a></li>
-                    <li><a href="{$WEB_ROOT}/promotions.php"><i class="fa fa-certificate"></i>Promotions</a></li>
-                    <li><a href="{$WEB_ROOT}/opening-hours.php"><i class="fa fa-clock-o"></i>Opening Hours</a></li>
-                  </ul>
-                </li>
+              
                 <li class="dropdown-submenu"> <a href="#">Legal Pages</a>
                   <ul class="dropdown-menu">
                     <li><a href="{$WEB_ROOT}/privacy-policy.php"><i class="fa fa-shield"></i>Privacy Policy</a></li>
