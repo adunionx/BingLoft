@@ -95,7 +95,14 @@
           <li><a href="{$WEB_ROOT}/contact.php"><i class="fa fa-angle-double-right"></i>Contact Us</a></li>
         </ul>
       </div>
-      <!--End Column--> 
+      <!--End Column-->
+       <!--Begin Column-->
+<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+<h4>SMS Partner</h4>     
+<a href="https://msg91.com/startups/?utm_source=startup-banner"><img src="https://msg91.com/images/startups/msg91Badge.png" width="120" height="90" title="MSG91 - SMS for Startups" alt="Bulk SMS - MSG91"></a>
+</div>
+<!--End Column--> 
+
     </div>
   </div>
 </section>
