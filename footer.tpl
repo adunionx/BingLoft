@@ -91,7 +91,7 @@
           <li><a href="{$WEB_ROOT}/privacy-policy.php"><i class="fa fa-angle-double-right"></i>Privacy Policy</a></li>
           <li><a href="{$WEB_ROOT}/sla-agreement.php"><i class="fa fa-angle-double-right"></i>SLA Agreement</a></li>
           <li><a href="{$WEB_ROOT}/terms-of-service.php"><i class="fa fa-angle-double-right"></i>Terms of Service</a></li>
-          <li><a href="{$WEB_ROOT}/contact.php"><i class="fa fa-angle-double-right"></i>Copyright Infringement</a></li>
+          <li><a href="{$WEB_ROOT}/about-us.php"><i class="fa fa-angle-double-right"></i>About Us</a></li>
           <li><a href="{$WEB_ROOT}/contact.php"><i class="fa fa-angle-double-right"></i>Contact Us</a></li>
         </ul>
       </div>
@@ -102,7 +102,12 @@
 <a href="https://msg91.com/startups/?utm_source=startup-banner"><img src="https://msg91.com/images/startups/msg91Badge.png" width="120" height="90" title="MSG91 - SMS for Startups" alt="Bulk SMS - MSG91"></a>
 </div>
 <!--End Column--> 
-
+<!--Begin Column-->
+<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+<h4>Payment Gateways</h4>     
+<img src="http://bingloft.com/images/net.gif" width="120" height="90" title="Payment Gateways" alt="Payment Gateways - BingLoft"></a>
+</div>
+<!--End Column--> 
     </div>
   </div>
 </section>
