@@ -207,7 +207,7 @@
           <div class="caption"> <img src="{$WEB_ROOT}/templates/{$template}/html/img/server-icon-1.png" class="img-responsive" alt="...">
             <h2>Silver</h2>
             <h3><span>Hosting</span></h3>
-            <h1><sup>Rs.</sup>50<small>.00</small></h1>
+            <h1><sup>Rs.</sup>65<small>.00</small></h1>
             <p class="specs">Monthly</p>
             <p class="check">50 GB Storage</p>
             <p class="check">Unlimited Bandwidth</p>
