@@ -185,22 +185,7 @@
 <section id="hosting-plans">
   <div class="container">
     <div class="row"> 
-    <!--Begin Plan Data-->
-      <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
-        <div class="thumbnail wow fadeInLeft">
-          <div class="caption"> <img src="{$WEB_ROOT}/templates/{$template}/html/img/server-icon-1.png" class="img-responsive" alt="...">
-            <h2>Free</h2>
-            <h3><span>Hosting</span></h3>
-            <h1><sup>Rs.</sup>00<small>.00</small></h1>
-            <p class="specs">Monthly</p>
-            <p class="check">5 GB Storage</p>
-            <p class="check">50 GB Bandwidth</p>
-            <p class="check">99.99% Uptime Guaranteed</p>
-            <p class="order"><a href="cart.php?a=add&pid=7" class="btn btn-blue btn-lg" role="button"><i class="fa fa-cart-plus"></i>Order Today</a></p>
-          </div>
-        </div>
-      </div>
-      <!--End Plan Data--> 
+
       <!--Begin Plan Data-->
       <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
         <div class="thumbnail wow fadeInLeft">
